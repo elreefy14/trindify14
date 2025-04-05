@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "703567434324",
+    "firebase_url": "https://my-application-1a3fe-default-rtdb.firebaseio.com",
+    "project_id": "my-application-1a3fe",
+    "storage_bucket": "my-application-1a3fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703567434324:android:f144c92ea5bab3f03b13c1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuufpfNaIHo3B657Q5iVHYmUNbG2xTSCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703567434324:android:9258541078ea5b6d3b13c1",
+        "android_client_info": {
+          "package_name": "com.example.trindify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuufpfNaIHo3B657Q5iVHYmUNbG2xTSCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703567434324:android:14823381b27b0a823b13c1",
+        "android_client_info": {
+          "package_name": "com.example.trindifyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuufpfNaIHo3B657Q5iVHYmUNbG2xTSCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
